@@ -1,0 +1,12 @@
+1-Créer le wireframe de notre interface d'explorateur de fichier
+2-lister les differntes fonctionnalites 
+3-rechercher un fichier
+4-disposition des fichiers(lister les fichiers)
+5-supprimer un fichier
+-fonction delete
+6-Corbeille temporaire
+7-upload
+-fonction move_uploaded_file(deplacer un fichier telecharger)
+8-copier un fichier
+-fonction copy
+9-retour
